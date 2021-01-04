@@ -20,5 +20,3 @@
 # Ignore ngrok for local testing
 ngrok
 
-# Ignore env vars
-.env
